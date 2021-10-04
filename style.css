@@ -72,6 +72,13 @@ img {
   clear: both;
 }
 
+@media screen and (min-width:810px){
+  .container .row{
+    width: 70%;
+  }
+}
+
+
 @media screen and (max-width:810px){
   .row{
     width: 80%;
